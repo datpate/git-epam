@@ -3,3 +3,7 @@ The second line
 
 This is the third line
 And here is the fourth one
+
+5th line
+and 6th line
+The both from bash
